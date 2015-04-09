@@ -15,7 +15,10 @@
    id="svg4080"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="toggle.svg">
+   sodipodi:docname="toggle.svg"
+   inkscape:export-filename="/home/yonas/Desktop/Designs/toggle.png"
+   inkscape:export-xdpi="109.82"
+   inkscape:export-ydpi="109.82">
   <defs
      id="defs4082">
     <clipPath
@@ -32163,9 +32166,9 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer10"
      showgrid="false"
-     inkscape:window-width="927"
+     inkscape:window-width="935"
      inkscape:window-height="1028"
-     inkscape:window-x="992"
+     inkscape:window-x="743"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:snap-global="false" />
@@ -32177,7 +32180,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
